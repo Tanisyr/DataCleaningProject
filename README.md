@@ -1,6 +1,5 @@
 # DataCleaningProject
 ## Getting and Cleaning Data Final Course Project
-___
 
 This is my repository for the Coursera Getting and Cleaning Data course final project.
   
@@ -13,6 +12,3 @@ This analysis is performed in the script `run_analysis.R`. This script:
 complete, tidy dataset
 4. Calculates summary averages of each measurement
 5. Outputs this summary dataset to `summary.txt` in the working directory
-
-
-
