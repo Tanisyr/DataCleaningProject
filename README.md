@@ -12,3 +12,10 @@ This analysis is performed in the script `run_analysis.R`. This script:
 complete, tidy dataset
 4. Calculates summary averages of each measurement
 5. Outputs this summary dataset to `summary.txt` in the working directory
+
+## Running the Script
+
+The script can be sourced into R or R Studio, or it can be run from the command
+line with `Rscript run_analysis.R`. This will create a `/data` directory with
+the data .zip file, and a `summary.txt` file with the output of the analysis in
+the working directory.

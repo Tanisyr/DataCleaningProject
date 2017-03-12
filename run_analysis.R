@@ -148,3 +148,5 @@ loadCompleteData <- function(activities, featureCodes, train = FALSE) {
     data <- cbind(subjects, labels, dataset)
     data
 }
+
+outputSummary()
